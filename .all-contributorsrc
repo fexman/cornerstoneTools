@@ -316,6 +316,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "fexman",
+      "name": "Felix Schuller",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6161908?v=4",
+      "profile": "https://felixschuller.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
