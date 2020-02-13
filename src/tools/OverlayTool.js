@@ -104,7 +104,7 @@ export default class OverlayTool extends BaseTool {
       }
 
       // Draw the overlay layer onto the canvas
-      canvasContext.drawImage(layerCanvas, overlay.x, overlay.y);
+      canvasContext.drawImage(layerCanvas, overlay.x || 0, overlay.y || 0);
     });
   }
 }
